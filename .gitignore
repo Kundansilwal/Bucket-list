@@ -1,0 +1,8 @@
+node_modules
+.next
+.env.local
+.env*.local
+coverage
+*.tsbuildinfo
+# Local demo persistence (no Supabase fallback)
+.demo-store.json
